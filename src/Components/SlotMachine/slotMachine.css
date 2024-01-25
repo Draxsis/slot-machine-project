@@ -1,0 +1,126 @@
+/* Global Styles */
+h1 {
+  margin-bottom: 1rem;
+  margin-top: -4rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.reels {
+  display: flex;
+  font-size: 2rem;
+  margin-bottom: 20px;
+  opacity: 1;
+}
+
+.credits {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background-color: orange;
+  color: #ffff;
+  border: 3px solid;
+  padding: 0.25em 0.5em;
+  position: relative;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: auto;
+  height: auto;
+}
+
+/* Slot Machine Styles */
+.slot-machine {
+  max-width: 400px;
+  width: fit-content;
+  margin: 0 auto;
+  margin-top: 1em;
+  position: relative;
+}
+
+.slot-machine > img {
+  display: block;
+  position: relative;
+  right: -20px;
+}
+
+/* Slot Wrapper Styles */
+.slotWrapper {
+  position: absolute;
+  overflow: hidden;
+  display: flex;
+  height: 200px;
+  width: 88%;
+  bottom: 20px;
+  padding: 0 25px;
+  margin-left: 7px;
+}
+
+.slotWrapper ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  position: relative;
+  float: left;
+  width: 200px;
+  height: 200px;
+  font-size: 150px;
+  line-height: 200px;
+  text-align: center;
+}
+
+.slotWrapper ul li img {
+  vertical-align: top;
+  display: none;
+}
+
+.slotWrapper > ul > li {
+  background: #fff;
+  font-size: 0.5em;
+  opacity: 1;
+}
+
+/* Slot Machine Button Styles */
+.slot-machine-btn {
+  position: absolute;
+  top: 50%;
+  right: -70px;
+  transform: translate(0, -50%);
+  background: transparent;
+  border: none;
+  width: 80px;
+  margin-top: 70px;
+  transition: 0.5s all ease-in-out;
+}
+
+.slot-machine-btn.clicked {
+  transform: translate(0, -50%) rotateX(190deg);
+}
+
+button:hover > img {
+  filter: drop-shadow(2px 4px 6px yellow);
+}
+
+button > img {
+  transition: 0.4s all ease-in-out;
+  user-select: none;
+}
+
+:not(button) img {
+  pointer-events: none;
+}
+
+.Buttons {
+  margin-left: 2.5em;
+}
