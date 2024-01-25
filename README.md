@@ -1,22 +1,20 @@
 # Slot Machine Project
 
 ## Overview
-The BookStore project is a comprehensive web-based bookstore management system designed to streamline book management. It offers a seamless user experience for browsing, searching, and organizing books, available in both table and card view formats. The system facilitates essential CRUD (Create, Read, Update, Delete) operations on the book database, simplifying book collection organization.
+Welcome to the React Slot Machine project, a captivating and interactive web application built using React and Material-UI (MUI). This project brings the thrill of a classic slot machine experience to the digital realm, offering users a dynamic and engaging platform to test their luck and have fun.
 
 ## Online Demo
-Explore the live demo of this application at [live Demo ](#)
+Explore the live demo of this application at [live Demo](#)
 Feel free to interact with the features and experience the application firsthand!
 
 ## Key Features
-- **Search Functionality:** Easily search for books within the collection.
-- **CRUD Operations:** Perform essential Create, Read, Update, and Delete actions for books.
-- **Multiple Viewing Options:** Choose between table and card view formats for an organized display.
+**Credits System**: Manage your in-game currency with a user-friendly credit system. Keep track of your balance and experience the excitement of betting and winning.
+**Customizable Bets**: Tailor your gaming experience with customizable bet amounts. Whether you're a conservative player or feeling bold, the React Slot Machine accommodates various betting preferences.
+**Information Hub**: Stay informed with detailed information on odds and rules. Understand the game mechanics and strategize your bets for optimal outcomes.
+**All-In Option**: Feeling lucky? Take the plunge and go all in! The all-in feature allows daring players to risk it all for the chance of hitting the jackpot.
 
 ## Technologies Used
-- [Node.js](https://nodejs.org/)
 - [React](https://react.dev/)
-- [Express.js](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
 
 ## Installation and Usage
 To run this project locally, follow these steps:
@@ -34,7 +32,6 @@ To run this project locally, follow these steps:
    # Start the frontend development server
    npm run dev
    
-
 ## Video
 https://github.com/Draxsis/bookstore-project/assets/93474063/2d87d5b4-c307-4732-b42c-8e76e00fb5d1
 
