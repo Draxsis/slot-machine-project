@@ -4,17 +4,14 @@
 Welcome to the React Slot Machine project, a captivating and interactive web application built using React and Material-UI (MUI). This project brings the thrill of a classic slot machine experience to the digital realm, offering users a dynamic and engaging platform to test their luck and have fun.
 
 ## Online Demo
-Explore the live demo of this application at [live Demo](#)
+Explore the live demo of this application at [live Demo](https://draxsis-slotmachine.netlify.app/)
 Feel free to interact with the features and experience the application firsthand!
 
 ## Key Features
-**Credits System**: Manage your in-game currency with a user-friendly credit system. Keep track of your balance and experience the excitement of betting and winning.
-**Customizable Bets**: Tailor your gaming experience with customizable bet amounts. Whether you're a conservative player or feeling bold, the React Slot Machine accommodates various betting preferences.
-**Information Hub**: Stay informed with detailed information on odds and rules. Understand the game mechanics and strategize your bets for optimal outcomes.
-**All-In Option**: Feeling lucky? Take the plunge and go all in! The all-in feature allows daring players to risk it all for the chance of hitting the jackpot.
-
-## Technologies Used
-- [React](https://react.dev/)
+- **Credits System**: Manage your in-game currency with a user-friendly credit system. Keep track of your balance and experience the excitement of betting and winning.
+- **Customizable Bets**: Tailor your gaming experience with customizable bet amounts. Whether you're a conservative player or feeling bold, the React Slot Machine accommodates various betting preferences.
+- **Information Hub**: Stay informed with detailed information on odds and rules. Understand the game mechanics and strategize your bets for optimal outcomes.
+- **All-In Option**: Feeling lucky? Take the plunge and go all in! The all-in feature allows daring players to risk it all for the chance of hitting the jackpot.
 
 ## Installation and Usage
 To run this project locally, follow these steps:
@@ -25,7 +22,7 @@ To run this project locally, follow these steps:
    
    ```bash
    # install dependencies
-   npm i | npm install
+   npm install
 3. **Run the application**:
    
    ```bash
