@@ -8,10 +8,10 @@ Explore the live demo of this application at [live Demo](https://draxsis-slotmac
 Feel free to interact with the features and experience the application firsthand!
 
 ## Key Features
-- **Credits System**: Manage your in-game currency with a user-friendly credit system. Keep track of your balance and experience the excitement of betting and winning.
-- **Customizable Bets**: Tailor your gaming experience with customizable bet amounts. Whether you're a conservative player or feeling bold, the React Slot Machine accommodates various betting preferences.
-- **Information Hub**: Stay informed with detailed information on odds and rules. Understand the game mechanics and strategize your bets for optimal outcomes.
-- **All-In Option**: Feeling lucky? Take the plunge and go all in! The all-in feature allows daring players to risk it all for the chance of hitting the jackpot.
+- **Credits System**: Manage in-game currency with a user-friendly credit system.
+- **Customizable Bets**: Tailor your experience with flexible bet amounts.
+- **Information Hub**: Get detailed odds and rules to strategize your bets.
+- **All-In Option**: Feeling lucky? Go all in for a chance at the jackpot.
 
 ## Installation and Usage
 To run this project locally, follow these steps:
