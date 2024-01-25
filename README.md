@@ -1,9 +1,9 @@
 # Slot Machine Project
 
-## Overview
+## Overview 📌
 Welcome to the React Slot Machine project, a captivating and interactive web application built using React and Material-UI (MUI). This project brings the thrill of a classic slot machine experience to the digital realm, offering users a dynamic and engaging platform to test their luck and have fun.
 
-## Online Demo
+## Online Demo 
 Explore the live demo of this application at [live Demo](https://draxsis-slotmachine.netlify.app/)
 Feel free to interact with the features and experience the application firsthand!
 
@@ -22,15 +22,17 @@ To run this project locally, follow these steps:
    
    ```bash
    # install dependencies
+   
    npm install
 3. **Run the application**:
    
    ```bash
    # Start the frontend development server
+   
    npm run dev
    
 ## Video
-https://github.com/Draxsis/bookstore-project/assets/93474063/2d87d5b4-c307-4732-b42c-8e76e00fb5d1
+https://github.com/Draxsis/slot-machine-project/assets/93474063/9dacd106-e0db-4aa6-9945-6d6509311a04
 
 ## License
 This project is licensed under the [MIT license](https://opensource.org/license/mit/). See the LICENSE.md file for details.
