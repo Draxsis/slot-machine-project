@@ -1,7 +1,7 @@
 # Slot Machine Project
 
 ## Overview 📌
-Welcome to the React Slot Machine project, a captivating and interactive web application built using React and Material-UI (MUI). This project brings the thrill of a classic slot machine experience to the digital realm, offering users a dynamic and engaging platform to test their luck and have fun.
+Welcome to the Slot Machine project, a captivating and interactive web application built using React and Material-UI (MUI). This project brings the thrill of a classic slot machine experience to the digital realm, offering users a dynamic and engaging platform to test their luck and have fun.
 
 ## Online Demo 
 Explore the live demo of this application at [live Demo](https://draxsis-slotmachine.netlify.app/)
